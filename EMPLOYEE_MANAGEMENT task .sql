@@ -8,7 +8,7 @@ desc employees;
 select count(*) from employees;
 
 
-PART B : BASIC EQUALITY & DIRECT COMPARISON --
+PART B:
 
 Task 1 : select * from employees where city = 'Pune' ;
 Task 2 : select * from employees where city = 'Mumbai' ;
